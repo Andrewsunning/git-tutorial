@@ -3,3 +3,5 @@
 - feature-A
 
 3 lines
+
+- feature-c
